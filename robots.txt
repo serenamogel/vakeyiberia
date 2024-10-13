@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vakeyiberia.pages.dev/sitemap.xml
